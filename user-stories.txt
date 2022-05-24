@@ -1,0 +1,12 @@
+##MVP
+As a user...:
+-I want to be able to see what my token is
+-I want to be able to see what my opponent does 
+-I want to be able to see the grid
+-I want to be able to see my move on the grid 
+-I want to be able to see when I win/lose/tie
+-I want a reset button to reset the game
+
+##Stretch Goals
+As a user...:
+-I want to be able to choose my token

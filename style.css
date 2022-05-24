@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+    text-align: center;
+}
+
+.board-container{
+    height: 50%;
+    left: 50%;
+    margin-left: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.board{
+    width:700px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+
+.cell{
+    border: 1px solid black;
+    flex-basis: 25%;
+}
+
+.reset-btn{
+    top: 50%;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.x{
+    background-color: red;
+}
+
+.o {
+    background-color: black;
+}

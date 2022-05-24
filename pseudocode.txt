@@ -1,0 +1,23 @@
+//PHASE 1
+set up grid 
+
+if player clicks a div{
+    if(gameProgress[div]){
+        do nothing
+    } else{
+    display user token
+    add the current div id to the gameProgress object with the user token as its value
+    }
+}
+
+
+//PHASE 2
+user1 = {
+    move1 = div ID
+}
+
+user2 = {}
+
+gameProgress = {
+    cell[index]: player class
+}
